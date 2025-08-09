@@ -1,2 +1,2 @@
 # secure-ai-chatbot
-🔐 Cybersecurity | 🤖 AI Chatbots 
+Secure AI Chatbot with OTP Authentication (Python + FastAPI)
